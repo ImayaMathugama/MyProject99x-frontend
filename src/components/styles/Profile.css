@@ -1,0 +1,11 @@
+
+.profile-container {
+  padding: 2rem;
+  
+  border-radius: 12px;
+  background-color: #a1a1a1 !important;
+  width:fit-content !important;
+
+  /* Set a larger fixed or responsive size */
+  
+}
